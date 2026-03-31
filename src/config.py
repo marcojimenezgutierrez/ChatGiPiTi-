@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 _ENV_VAR = "GEMINI_API_KEY"
 
 # Modelo de Gemini a utilizar
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.5-flash-lite"
 
 # Nombre que mostrará el asistente en la consola
 ASSISTANT_NAME = "ChatGiPiTi"
