@@ -211,31 +211,6 @@ git push -u origin main
 
 ---
 
-## 📝 Experiencia personal / reflexión
-
-> *(Plantilla para compartir en el Foro #3 de tu curso)*
-
----
-
-**Nombre:** _Tu nombre aquí_
-
-**¿Qué construiste?**
-Una aplicación de consola en Python que usa la Gemini API para chatear de forma conversacional con un asistente amigable.
-
-**¿Qué aprendiste con este proyecto?**
-_(Escribe aquí lo que más te sorprendió o te costó: gestión de historial, manejo de errores, variables de entorno, estructura de proyecto…)_
-
-**¿Qué fue lo más difícil?**
-_(Por ejemplo: entender cómo funciona la sesión de chat del SDK, o configurar las variables de entorno correctamente.)_
-
-**¿Qué mejorarías?**
-_(Por ejemplo: agregar una interfaz web, guardar el historial, soporte de imágenes…)_
-
-**Un consejo para quien empiece este mismo proyecto:**
-_(Comparte lo que te hubiera gustado saber antes de empezar.)_
-
----
-
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
